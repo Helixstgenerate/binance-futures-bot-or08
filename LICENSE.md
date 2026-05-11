@@ -1,4 +1,4 @@
-# 
+# instant binance futures bot | slippage-control + stop-loss is the best binance futures bot, featuring slippage-control and stop-loss. Smart, fast, and optimized for trading on
 
 
 
